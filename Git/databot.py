@@ -46,6 +46,6 @@ async def list(ctx, type):
 async def devinfo(ctx):
     await ctx.send("We have logged the 7 main Core systems and plan to log more, to keep up to date on logged systems do ***.list logged***\nDo ***.help info*** to learn how to use the bot")
 
-client.run('ODcyMzE0NjIwNjQyMTk3NTc1.YQoETA.tY3jIvldnbAUHFyfEp31OXc0lQI')
+client.run()
 
 input('Press ENTER to exit')
